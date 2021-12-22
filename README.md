@@ -23,6 +23,16 @@ Check If user is Live or not
 
 * 3x Times Move Iris to Right
 
+## Getting Started
+
+Install the dependencies
+
+```bash
+$ git clone https://github.com/chauhanmahavir/Liveness-Detection.git
+$ pip install -r requirement.txt
+$ python Liveness.py
+```bash
+
 ## Profiles
 
 * [Github](https://github.com/chauhanmahavir)
