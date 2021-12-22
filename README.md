@@ -11,6 +11,16 @@ Check If user is Live or not
 
 * Mediapipe
 
+## Getting Started
+
+Install the dependencies
+
+```bash
+$ git clone https://github.com/chauhanmahavir/Liveness-Detection.git
+$ pip install -r requirement.txt
+$ python Liveness.py
+```
+
 ## Tasks To Complete Liveness
 
 * Face Detection
@@ -22,16 +32,6 @@ Check If user is Live or not
 * 3x Times Move Iris to Left
 
 * 3x Times Move Iris to Right
-
-## Getting Started
-
-Install the dependencies
-
-```bash
-$ git clone https://github.com/chauhanmahavir/Liveness-Detection.git
-$ pip install -r requirement.txt
-$ python Liveness.py
-```bash
 
 ## Profiles
 
