@@ -13,15 +13,15 @@ Check If user is Live or not
 
 ## Tasks To Complete Liveness
 
-* []Face Detection
+* Face Detection
 
-* []Landmarks Detection
+* Landmarks Detection
 
-* []3x Times Eye Blink
+* 3x Times Eye Blink
 
-* []3x Times Move Iris to Left
+* 3x Times Move Iris to Left
 
-* []3x Times Move Iris to Right
+* 3x Times Move Iris to Right
 
 ## Profiles
 
