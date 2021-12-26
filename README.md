@@ -17,6 +17,7 @@ Install the dependencies
 
 ```bash
 $ git clone https://github.com/chauhanmahavir/Liveness-Detection.git
+$ cd Liveness-Detection
 $ pip install -r requirement.txt
 $ python Liveness.py
 ```
